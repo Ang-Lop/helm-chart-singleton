@@ -3,7 +3,7 @@ entries:
   my-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-21T12:35:33.86544-05:00"
+    created: "2021-01-21T15:16:47.233906-05:00"
     description: A Helm chart for Kubernetes
     digest: 8299fd4ba1520b7fdafbc340cc31d42614b969b5b781cc248f51db4bb8039b69
     name: my-app
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://ang-lop.github.io/helm-chart-singleton/my-app-0.1.0.tgz
     version: 0.1.0
-generated: "2021-01-21T12:35:33.864911-05:00"
+  my-app-2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-21T15:16:47.234253-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 620123bbcb755f516aad5ed579f3ccef3a564c3f3531fbfa7da8de2d477cb074
+    name: my-app-2
+    type: application
+    urls:
+    - https://ang-lop.github.io/helm-chart-singleton/my-app-2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-21T15:16:47.232726-05:00"
